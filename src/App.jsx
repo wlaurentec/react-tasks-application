@@ -1,6 +1,11 @@
+import TaskList from "./TaskList"
+import TaskForm from "./TaskForm"
 function App() {
   return (
-    <div>App</div>
+    <>
+      <TaskForm />
+      <TaskList />
+    </>
   )
 }
 
