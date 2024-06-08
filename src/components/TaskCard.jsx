@@ -1,6 +1,5 @@
 const TaskCard = ({ task, deleteTask  }) => {
 
-
   return (
     <div>
       <h3>{task.title}</h3>
