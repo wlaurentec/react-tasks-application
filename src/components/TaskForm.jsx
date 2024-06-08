@@ -17,14 +17,14 @@ const TaskForm = ({ createTask }) => {
     <form onSubmit={handSubmit}>
       <input
         placeholder="Escribe tu tarea"
-        onChange={(e) => setTitle(e.target.value)}
         value={title}
+        onChange={(e) => setTitle(e.target.value)}
         autoFocus
       />
       <textarea
         placeholder="Escribe una descripción"
-        onChange={(e) => setDescription(e.target.value)}
         value={description}
+        onChange={(e) => setDescription(e.target.value)}
       />
       <button>Guardar</button>
     </form>

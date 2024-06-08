@@ -11,3 +11,4 @@ const TaskCard = ({ task, deleteTask  }) => {
 };
 
 export default TaskCard;
+  
