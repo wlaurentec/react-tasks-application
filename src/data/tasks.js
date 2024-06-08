@@ -1,17 +1,17 @@
 export const tasks = [
   {
     id: 0,
-    title: 'Task 1',
-    description: 'Task 1 description',
+    title: 'Tarea 1',
+    description: 'Tarea 1 descripción',
   },
   {
     id: 1,
-    title: 'Task 2',
-    description: 'Task 2 description',
+    title: 'Tarea 2',
+    description: 'Tarea 2 descripción',
   },
   {
     id: 2,
-    title: 'Task 3',
-    description: 'Task 3 description',
+    title: 'Tarea 3',
+    description: 'Tarea 3 descripción',
   },
 ]
