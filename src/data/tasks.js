@@ -1,17 +1,22 @@
 export const tasks = [
   {
     id: 0,
-    title: 'Tarea 1',
-    description: 'Tarea 1 descripción',
+    title: "Mi primera tarea",
+    description:
+      "Si haces todo lo que los demás hacen en los negocios, vas a perder. La única manera de estar realmente por delante, es ser diferente.",
   },
+
   {
     id: 1,
-    title: 'Tarea 2',
-    description: 'Tarea 2 descripción',
+    title: "Mi segunda tarea",
+    description:
+      "Los grandes logros son impulsados, no tanto por la búsqueda del éxito, sino por el miedo al fracaso.",
   },
+
   {
     id: 2,
-    title: 'Tarea 3',
-    description: 'Tarea 3 descripción',
+    title: "Mi tercera tarea",
+    description:
+      "Tienes que creer en lo que haces para obtener lo que quieres.",
   },
-]
+];
